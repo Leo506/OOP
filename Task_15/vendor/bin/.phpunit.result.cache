@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\UserTest::testAddress":8,"App\\Tests\\UserTest::testUsersWithAddresses":8},"times":{"App\\Tests\\UserTest::testAddress":0.004,"App\\Tests\\UserTest::testUsersWithAddresses":0.001}}

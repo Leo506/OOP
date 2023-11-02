@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\SegmentTest::test":8},"times":{"App\\Tests\\SegmentTest::testThatBeginPointIsPrivate":0.004,"App\\Tests\\SegmentTest::testThatEndPointIsPrivate":0,"App\\Tests\\SegmentTest::test":0.007}}
