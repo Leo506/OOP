@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\PasswordValidatorTest::testValidateWithOptions":7,"App\\Tests\\PasswordValidatorTest::testValidateWithIncorrectOptions":7},"times":{"App\\Tests\\PasswordValidatorTest::testValidateWithDefaultOptions":0.004,"App\\Tests\\PasswordValidatorTest::testValidateWithOptions":0,"App\\Tests\\PasswordValidatorTest::testValidateWithIncorrectOptions":0}}

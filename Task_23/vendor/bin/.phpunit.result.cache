@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\RandomTest::testGetNext":8,"App\\Tests\\RandomTest::testReset":8},"times":{"App\\Tests\\RandomTest::testGetNext":0.004,"App\\Tests\\RandomTest::testReset":0}}

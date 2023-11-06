@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\SquareTest::testGetSide":7,"App\\Tests\\SquaresGeneratorTest::testGenerate":8},"times":{"App\\Tests\\SquareTest::testGetSide":0.004,"App\\Tests\\SquaresGeneratorTest::testGenerate":0.002}}
