@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\UrlTest::testYandex":7,"App\\Tests\\UrlTest::testGoogle":7},"times":{"App\\Tests\\UrlTest::testYandex":0.004,"App\\Tests\\UrlTest::testGoogle":0}}
